@@ -1,0 +1,21 @@
+//Items
+item.cobalt_ingot.name=Coblat Ingot
+item.copper_ingot.name=Copper Ingot
+item.obsidian_ingot.name=Obsidian Ingot
+item.ruby.name=Ruby
+item.sapphire.name=Sapphire
+item.steel_ingot.name=Steel Ingot
+
+//Blocks
+tile.cobalt_block.name=Cobalt Block
+tile.cobalt_ore.name=Cobalt Ore
+tile.copper_block.name=Copper Block
+tile.copper_ore.name=Copper Ore
+tile.ruby_block.name=Ruby Block
+tile.ruby_ore.name=Ruby Ore
+tile.sapphire_block.name=Sapphire Block
+tile.sapphire_ore.name=Sapphire Ore
+tile.steel_block.name=Steel Block
+
+//Tabs
+itemGroup.moreoresmodtab=MoreOres
